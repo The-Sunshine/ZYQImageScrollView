@@ -4,7 +4,7 @@
 //
 //  Created by zyq on 2017/1/22.
 //  Copyright © 2017年 zyq. All rights reserved.
-//
+//  轮播图
 
 #import <UIKit/UIKit.h>
 
